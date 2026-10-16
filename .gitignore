@@ -1,0 +1,15 @@
+*-backups/
+*.lck
+fp-info-cache
+GERBER/*
+!GERBER/.gitkeep
+POS/*
+!POS/.gitkeep
+dfm/*
+!dfm/.gitkeep
+*.pdf
+.DS_Store
+Thumbs.db
+.history/
+fp-lib-table
+sym-lib-table

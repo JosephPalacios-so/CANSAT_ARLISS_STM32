@@ -1,0 +1,46 @@
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Link,LCSC Part
+F1,1,7A,,,,ARLISS-footprints:F1206,https://www.lcsc.com/datasheet/C52988555.pdf,C52988555
+X2,1,8Mhz 10pF,,,,ARLISS-footprints:CRYSTAL-SMD_4P-L3.2-W2.5-BL,https://www.lcsc.com/datasheet/C42464264.pdf,C42464264
+L2,1,3.3uH,,,,ARLISS-footprints:IND-SMD_L4.1-W4.1_FTC404020S,https://www.lcsc.com/datasheet/C39676071.pdf,C39676071
+U5,1,BMP581,,,,ARLISS-footprints:LGA-10_L2.0-W2.0-P0.50-TL_BMP581,https://www.lcsc.com/datasheet/C5362283.pdf,C5362283
+U7,1,AP63203QWU-7,,,,ARLISS-footprints:TSOT-26_L2.9-W1.6-P0.95-LS2.8-BL,https://www.lcsc.com/datasheet/C5248536.pdf,C5248536
+"C27,C30,C31,C32,C33",5,10uF,,,,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,https://www.lcsc.com/datasheet/C3039694.pdf,C3039694
+CN3,1,DB127V-5.08-2P-GN-S,,,,ARLISS-footprints:CONN-TH_2P-P5.08,https://www.lcsc.com/datasheet/C3018698.pdf,C3018698
+"U3,U4",2,DRV8874PWPR,,,,ARLISS-footprints:HTSSOP-16_L5.0-W4.4-P0.65-LS6.4-BL-EP,https://www.lcsc.com/datasheet/C1855818.pdf,C1855818
+"C19,C20",2,22nF,,,,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,https://www.lcsc.com/datasheet/C1853771.pdf,C1853771
+"R1,R2,R5,R16",4,10K,,,,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,https://www.lcsc.com/datasheet/C859110.pdf,C859110
+"C21,C22",2,100uF,,,,ARLISS-footprints:CAP-SMD_BD6.3-L6.6-W6.6-FD,https://www.lcsc.com/datasheet/C729685.pdf,C729685
+U12,1,ADXL375BCCZ,,,,ARLISS-footprints:LGA-14_L5.0-W3.0-P0.80-BL,https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL375.pdf,C579466
+"C14,C28",2,1uF,,,,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,https://www.lcsc.com/datasheet/C559769.pdf,C559769
+"C3,C4",2,7pF,,,,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,https://www.lcsc.com/datasheet/C519115.pdf,C519115
+U6,1,VEML7700-TR,,,,ARLISS-footprints:LED-SMD_4P-L6.8-W2.4_VEML7700-TR,https://www.lcsc.com/datasheet/C504893.pdf,C504893
+P1,1,PZ254R-12-8P,,,,ARLISS-footprints:HDR-TH_8P-P2.54-H-M-R2-C4-S2.54,https://lcsc.com/product-detail/Pin-Header-Female-Header_XFCN-PZ254R-12-8P_C492432.html,C492432
+"CN1,CN2",2,XT30PW-M,,,,ARLISS-footprints:CONN-TH_XT30PW-M,https://lcsc.com/product-detail/New-Arrivals_Changzhou-Amass-Elec-XT30PW-MMale-head_C431092.html,C431092
+"Q2,Q3",2,AOD4185_C400894,,,,ARLISS-footprints:TO-252-3_L6.6-W6.1-P4.57-LS9.9-BR-CW,https://lcsc.com/product-detail/MOSFET_Alpha-Omega-Semicon-AOS-AOD4185_C400894.html,C400894
+"C34,C35",2,22uF,,,,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,https://www.lcsc.com/datasheet/C342717.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.16.xh&lcsc_vid=RwVXU10EEVNfXwFXR1YPUQACRQNYVwZRFVZWUVEDQQQxVlNeQVJaV1ZfT1lZXjsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVZYVVFfQ08GEwkK,C342717
+"C11,C12",2,10pF,,,,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,https://www.lcsc.com/datasheet/C309467.pdf,C309467
+"C1,C2,C7,C8,C9,C10,C15,C16,C23,C24,C25,C26,C29,C39,C40,C43,C44",17,100nF,,,,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,https://www.lcsc.com/datasheet/C282518.pdf,C282518
+F2,1,750mA,,,,ARLISS-footprints:F1206,https://lcsc.com/product-detail/Blade-Fuses_Littelfuse_0466-750NRHF_Littelfuse-0466-750NRHF_C187594.html,C187594
+"SW1,SW2",2,EVQPLMA15,,,,ARLISS-footprints:KEY-SMD_6P-L4.9-4.9-P3.70,https://lcsc.com/product-detail/Tactile-Switches_PANASONIC_EVQPLMA15_4-9-4-9-1-5-2-6N_C128538.html,C128538
+CN4,1,0430450400,,,,ARLISS-footprints:CONN-TH_0430450400,https://lcsc.com/product-detail/Connectors_MOLEX_0430450400_Connectors-4Contacts-plug-3mm-welding-2_C122413.html,C122413
+"LED4,LED7",2,,,,,Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder,https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_D-G0603-Green_C118334.html,C118334
+"LED1,LED2,LED3,LED5",4,D-R060306L3-KS2,,,,Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder,https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_D-R060306L3-KS2-Azarin_C118330.html,C118330
+"R7,R8,R20,R21",4,4.7K,,,,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_4-7KR-472-1_C99782.html,C99782
+X1,1,32.768kHz 7pF SMD,,,,Crystal:Crystal_SMD_2012-2Pin_2.0x1.2mm_HandSoldering,https://lcsc.com/product-detail/SMD-Crystals_EPSON_FC-12M32-768KHZ7PF20PPM_FC-12M-32-768KHZ-7PF-20PPM_C99009.html,C99009
+"C5,C6",2,2.2uF,,,,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,https://www.lcsc.com/datasheet/C86018.pdf,C86018
+"C13,C17,C18",3,10nF,,,,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,https://www.lcsc.com/datasheet/C85973.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=TwNfBVVTT1EPV1BeT1hWUQEERFgLBABfRwNbBgdSRlMxVlNeQlZXVlVVQFdcVzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRlBbV1FQWQkaCgg%3D,C85973
+L1,1,220Ω@100MHz,,,,Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder,https://www.lcsc.com/datasheet/C76815.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=TwNfBVVTT1EPV1BeT1hWUQEERFgLBABfRwNbBgdSRlMxVlNeQlZXVlNWT1dZUzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slQ1hcV1xfQlBADxALGw%3D%3D,C76815
+"U10,U11",2,INA226AIDGSR,,,,ARLISS-footprints:MSOP-10_L3.0-W3.0-P0.50-LS5.0-BL,https://lcsc.com/product-detail/PMIC-Current-Regulation_TI_INA226AIDGSR_INA226AIDGSR_C49851.html,C49851
+Q1,1,IRLZ44NPBF,,,,Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown,https://lcsc.com/product-detail/MOSFET_IR_IRLZ44NPBF_IRLZ44NPBF_C38774.html,C38774
+R3,1,1K,,,,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_1KR-1001-1_C22548.html,C22548
+U1,1,STM32F405RGT6,,,,ARLISS-footprints:LQFP-64_L10.0-W10.0-P0.50-LS12.0-BL,https://lcsc.com/product-detail/ST-Microelectronics_STMicroelectronics_STM32F405RGT6_STM32F405RGT6_C15742.html,C15742
+"R19,R32,R33",3,100k,,,,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_100KR-1003-1_C14675.html,C14675
+"RIM1,RIM2",2,20K,,,,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,https://www.lcsc.com/datasheet/C7274188.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=T1ILAVAFQwMNAQdVQQRYBVFeFVhXV1UAFVdZVAcFQlgxVlNeR1FWVlNQQFVaUDsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slT1RXVlVWWQkaCgg%3D,C7274188
+R22,1,10mΩ,,,,Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder,C7420034,C7420034
+"R12,R15,R23,R24,R25,R26",6,10,,,,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C163851,C163851
+R11,1,80mΩ,,,,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,C42454047,C42454047
+"R6,R18",2,10k,,,,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~,C25744
+"R4,R9,R10,R17,R31,RIPR1,RIPR2",7,2.2K,,,,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,"https://www.lcsc.com/datasheet/C114611.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.2.xh&lcsc_vid=T1ILAVAFQwMNAQdVQQRYBVFeFVhXV1UAFVdZVAcFQlgxVlNeRlVbXlFfTlVZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D,https://www.lcsc.com/datasheet/C125931.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.2.xh&lcsc_vid=R1EMVlZWFVhaX1ZSRlRWVVNfQgdWVwdWRAAPBgdSElkxVlNeQVRbX1dVQ1ZcUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D",C125931
+"J1,J2",2,Conn_01x06,,,,Connector_JST:JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical,https://www.lcsc.com/datasheet/C144397.pdf?spm=wm.sxq.inf.ggs___wm.ssy.bg.10.xh&lcsc_vid=T1RYXlBeQ1NXVVRQElQIBgFfEVVfUlADQlYNVlEFRFIxVlNeQFNaUFBRRFZeVzsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D,C144397
+"D1,D2",2,D_Zener,,,,Diode_SMD:D_SOD-123,https://www.lcsc.com/datasheet/C2857059.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.3.xh&lcsc_vid=R1EMVlZWFVhaX1ZSRlRWVVNfQgdWVwdWRAAPBgdSElkxVlNeQVRYX1RTTlBWXjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D,C2857059
+"C42,C45,C46,C47",4,0.1uF,,,,"Capacitor_SMD:C_0603_1608Metric,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",,C282518
